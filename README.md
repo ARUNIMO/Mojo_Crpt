@@ -11,3 +11,12 @@ Crypt leverages the combined capabilities of IPFS (InterPlanetary File System) a
 To facilitate the functionality and operations of Crypt, smart contracts are deployed on the Polygon Mumbai network. Polygon is a layer-2 scaling solution for Ethereum, offering faster transaction speeds and lower fees. By deploying the smart contracts on the Polygon network, Crypt benefits from these advantages, enabling seamless and cost-effective interactions for users.
 
 Overall, Crypt revolutionizes the way medical records are stored and accessed. It provides a secure, permanent, and decentralized solution that mitigates the risks associated with centralized storage platforms. By combining blockchain technology, Soulbound Tokens, IPFS, Filecoin, and smart contracts on the Polygon network, Crypt ensures the integrity, privacy, and longevity of medical records, empowering patients and healthcare providers with a robust and trusted storage solution.
+
+
+To run the application:
+
+Install the npm package
+ npm install
+ 
+Then start the project with:
+ npm start
